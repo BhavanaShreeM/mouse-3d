@@ -190,7 +190,7 @@ function Landscape() {
              */
 
 
-float distortionRadius = 0.04;
+float distortionRadius = 0.10;
 
 float influence =
   1.0 - smoothstep(
